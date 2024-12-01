@@ -26,7 +26,7 @@ This project presents a user-friendly Heart Disease Prediction and Treatment Rec
 * Adding more advanced models for improved prediction accuracy.
 * Enhancing recommendations with the latest medical research data.
   
-* Installation
+# Installation
 ✅ Clone this repository :
 git clone https://github.com/yourusername/heart-disease-prediction.git
 
