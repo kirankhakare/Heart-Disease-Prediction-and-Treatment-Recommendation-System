@@ -28,7 +28,7 @@ This project presents a user-friendly Heart Disease Prediction and Treatment Rec
   
 # Installation
 ✅ Clone this repository :
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/kirankhakare/Heart-Disease-Prediction-and-Treatment-Recommendation-System.git
 
 ✅ Navigate to the project folder :
 cd heart-disease-prediction 
